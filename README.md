@@ -46,7 +46,7 @@ customer-behavior-dashboard/
 ## How to Use
 1. Clone this repository.
 2. Open `Customer_Behavior_Dashboard.pbix` in Power BI Desktop.
-3. If prompted, point the data source to `customer_behavior.csv`.
+3. If prompted, point the data source to `customer_shopping_behavior.xlsx`.
 4. Use the slicers on the left to filter the dashboard.
 
 ## Author
