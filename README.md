@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes customer purchase behavior across product categories, age groups, subscription status, gender and shipping type.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Objective
 Understand who buys what, how much revenue each category and age group generates, and how subscription status affects customer behavior.
