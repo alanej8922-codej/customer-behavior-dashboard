@@ -38,9 +38,9 @@ Understand who buys what, how much revenue each category and age group generates
 customer-behavior-dashboard/
 ├── README.md
 ├── .gitignore
-├── dashboard.png
+├── Dashboard.png
 ├── Customer_Behavior_Dashboard.pbix
-└── customer_behavior.csv
+└── customer_shopping_behavior.csv
 ```
 
 ## How to Use
